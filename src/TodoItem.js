@@ -10,7 +10,7 @@ function TodoItem (){
 
       <input type ="checkbox"/>
       <p>Tomorrow</p> 
-      
+
       <input type ="checkbox"/>
       <p>Next Week</p> 
 
